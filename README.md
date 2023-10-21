@@ -27,7 +27,7 @@ website or any other tech-related venture, feel free to reach out to me at [brun
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-oyuko/)
 - [Twitter](https://twitter.com/@u_sawa1)
-- [Portfolio Website](https://bplustech.netlify.app/)
+- [Portfolio Website](https://brunoyuko.netlify.app/)
 
 Happy coding! 🚀
 
