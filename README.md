@@ -13,7 +13,7 @@ I'm also skilled in digital marketing and machine learning.
 
 Here are some of my key skills:
 
-- **Web Development:** HTML, CSS, JavaScript, PHP
+- **Web Development:** HTML, CSS, JavaScript, python,Django,PHP
 - **Backend Development:** RESTful APIs, Database Design, Server Management
 - **Digital Marketing:** SEO, Content Marketing, Social Media Advertising
 - **Machine Learning:** Data Analysis, Model Development, Deep Learning
